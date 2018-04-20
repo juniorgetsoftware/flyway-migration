@@ -1,0 +1,1 @@
+ALTER TABLE atividade ADD tempo TIME;  
