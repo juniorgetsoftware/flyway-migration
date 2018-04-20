@@ -44,6 +44,7 @@
 				<version>5.0.7</version>
 				<configuration>
 					<driver>com.mysql.jdbc.Driver</driver>
+					<outOfOrder>true</outOfOrder>
 				</configuration>
 			</plugin>
 		</plugins>

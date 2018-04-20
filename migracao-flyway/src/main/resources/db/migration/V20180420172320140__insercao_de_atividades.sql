@@ -1,0 +1,3 @@
+INSERT INTO atividade (id, titulo, descricao, data_cadastro, data_inicio, data_conclusao, tempo) VALUES (1, 'Documentação e abertura do projeto', null, '2018-04-18 08:00:00', null, null, null);
+INSERT INTO atividade (id, titulo, descricao, data_cadastro, data_inicio, data_conclusao, tempo) VALUES (2, 'Elicitação de requisitos', null, '2018-04-19 10:40:00', null, null, null);
+INSERT INTO atividade (id, titulo, descricao, data_cadastro, data_inicio, data_conclusao, tempo) VALUES (3, 'Documentação de casos de uso', null, '2018-04-20 16:20:00', null, null, null);
